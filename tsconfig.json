@@ -1,0 +1,34 @@
+{
+  "compilerOptions": {
+    // "target": "ESNext",
+    // "lib": [
+    //   "dom",
+    //   "dom.iterable",
+    //   "esnext"
+    // ],
+    "module": "es2022",
+    "target": "es2022",
+    "moduleResolution": "node",
+
+    "outDir": "dist",
+    "allowJs": true,
+    "baseUrl": ".",
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    // "module": "esnext",
+    // "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+  },
+  "compileOnSave": true,
+  "include": [
+    "src"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

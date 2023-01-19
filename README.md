@@ -1,14 +1,10 @@
 # Sui wallet with social login
 
-This package is intended to provide a simple wrapper for social login with Sui wallet creation. This allows users to login once and immediately get a Sui wallet to be stored in a configured database. The intent is to ease user onboarding, allowing users to interact with your application and immediately start earning NFTs. They can then return later via social login and export their NFTs to an external wallet once they have that set up.
-
-```
-```
+A simple library for social login with Sui wallet creation. This allows users to login via a social account (Google, Twitter, etc) and immediately get a linked Sui wallet to be stored in a configured database. The intent is to ease user onboarding, allowing web2 users to interact with your application and immediately start earning NFTs. They can then return later via social login and export their NFTs to an external wallet once they have that set up.
 
 ## Example usage
 
-```javascript
-```
+TODO
 
 ## Testing
 
